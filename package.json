@@ -1,5 +1,5 @@
 {
-  "name": "isomorphic-demo",
+  "name": "React hot load with express",
   "version": "0.0.1",
   "description": "A boilerplate for isomorphic React apps",
   "main": "lib/server/server.js",
@@ -14,7 +14,7 @@
     "react",
     "app"
   ],
-  "author": "Joseph Furlott",
+  "author": "Vibhu Tiwari",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer-loader": "^3.1.0",
